@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><title>Repostería Pyme</title></head>
+<body>
+    <h1>🍰 Sistema de Repostería - Fase 1</h1>
+    <p>El esqueleto de la página web está funcionando correctamente.</p>
+</body>
+</html>
